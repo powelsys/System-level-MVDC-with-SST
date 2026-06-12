@@ -5,3 +5,6 @@ Tutorial given by Daniel Siemaszko
 - on 12th June at IEEE ICDCM 2026, Xi'an, China
 
 Python scripts calling a Simba.io model for running an MVDC model
+- Python Release Python 3.8.0 | Python.org https://www.python.org/downloads/release/python-380
+- Then in terminal type:
+  pip install math, numpy, mathplotlib, aesim.simba, os-sys, t
